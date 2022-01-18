@@ -1,4 +1,4 @@
-#Tips: Version 1.1.0 (Paho 1.3)
+Tips: Version 1.1.0 (Paho 1.3)
 # Eclipse Paho MQTT C/C++ client for Embedded platforms
 
 This repository contains the source code for the [Eclipse Paho](http://eclipse.org/paho) MQTT C/C++ client library for Embedded platorms.
